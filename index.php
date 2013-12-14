@@ -42,7 +42,7 @@ $json = '{
     },
     "blog": {
         "rss": "http://www.longren.org/feed/",
-        "latest": [{
+        "featured": [{
             "title": "Contributing To GitHub Projects is Easy",
             "url": "http://www.longren.org/contributing-to-github-projects-is-easy/",
             "date": "2013-12-13T04:15:28.513Z"

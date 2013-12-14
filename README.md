@@ -11,4 +11,4 @@ I saw [Joshua Beckman's](https://twitter.com/jbckmn) [peronal API](http://http:/
 
 Example
 -----------------------------
-See [http://www.longren.org/api](http://http://www.bckmn.com/api) or [http://http://www.bckmn.com/api](http://http://www.bckmn.com/api)
+See [http://www.longren.org/api](http://www.longren.org/api) or [http://http://www.bckmn.com/api](http://www.bckmn.com/api)

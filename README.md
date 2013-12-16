@@ -18,9 +18,10 @@ Examples
 -----------------------------
 See [http://api.longren.org/](http://api.longren.org) or [http://http://www.bckmn.com/api](http://www.bckmn.com/api) for examples.
 
-For PHP devs, there's some basic querying examples in php-examples.php. I'll be adding examples for JavaScript and maybe other languages as well, or send a pull request. Just name your example file ```ruby-example.rb``` for Ruby for example, or ```python-example.rb``` for Python.
 
-Below is the output of php-example.php.
+PHP Example
+-----------------------------
+For PHP devs, there's some basic querying examples in php-examples.php. Below is the output of php-example.php. It won't run on heroku (unsure why, any ideas?), so if you want to see a quick test, upload it to a PHP webserver you control.
 
 ```
 30
@@ -37,3 +38,7 @@ stdClass Object
     [daughter] => Sydney
 )
 ```
+
+Other Language Example
+-----------------------------
+I'll be adding examples for JavaScript and maybe other languages as well. If you really want to see examples for a language, [open an issue](https://github.com/tlongren/personal-api/issues). I just ask that you name your example files like so: ```ruby-example.rb``` for Ruby or ```python-example.rb``` for Python.

@@ -24,7 +24,7 @@ This runs really nicely on [herou](http://www.heroku.com/), so I suggest running
 
 Examples
 -----------------------------
-See [http://api.longren.org/](http://api.longren.org) or [http://http://www.bckmn.com/api](http://www.bckmn.com/api) for examples.
+See [http://api.longren.org/](http://api.longren.org) or [http://www.bckmn.com/api](http://www.bckmn.com/api) for examples.
 
 
 PHP Example

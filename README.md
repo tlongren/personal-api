@@ -11,7 +11,7 @@ I saw [Joshua Beckman's](https://twitter.com/jbckmn) [peronal API](http://http:/
 
 Setup
 -----------------------------
-This runs really nicely on [herou](http://www.heroku.com/), so I suggest running it there. Just clone this repo, create an app through the Heroku dashboard or with the [https://toolbelt.heroku.com/](heroko toolbelt), read up on [https://devcenter.heroku.com/articles/quickstart](setting up heroku), and, finally, [https://devcenter.heroku.com/articles/git](deploy to your new Heroku app).
+This runs really nicely on [herou](http://www.heroku.com/), so I suggest running it there. Just clone this repo, create an app through the Heroku dashboard or with the [heroku toolbelt](https://toolbelt.heroku.com/), read up on [setting up heroku](https://devcenter.heroku.com/articles/quickstart), and, finally, [deploy to your new heroku app](https://devcenter.heroku.com/articles/git).
 
 
 Examples

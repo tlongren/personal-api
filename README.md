@@ -15,6 +15,8 @@ See [http://api.longren.org/](http://api.longren.org) or [http://http://www.bckm
 
 For PHP devs, there's some basic querying examples in index.php. I'll be adding examples for JavaScript and maybe other languages as well, or send a pull request. Just name your example file ```ruby-example.rb``` for Ruby for example, or ```python-example.rb``` for Python.
 
+Visit http://yourapp.herokuapp.com/php-example.php to see the output below from ```php-example.php```.
+
 ```
 30
 Array

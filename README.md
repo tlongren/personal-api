@@ -42,3 +42,7 @@ stdClass Object
 Other Language Example
 -----------------------------
 I'll be adding examples for JavaScript and maybe other languages as well. If you really want to see examples for a language, [open an issue](https://github.com/tlongren/personal-api/issues). I just ask that you name your example files like so: ```ruby-example.rb``` for Ruby or ```python-example.rb``` for Python.
+
+A Screenshot
+-----------------------------
+![api.longren.org output](http://i.imgur.com/dmgD53h.png "api.longren.org output")

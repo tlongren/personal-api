@@ -3,7 +3,7 @@ personal-api
 
 What It Does
 -----------------------------
-Provides a simple JSON API for your personal site. Easily hosted on (Heroku)(http://heroku.com].
+Provides a simple JSON API for your personal site. Easily hosted on [Heroku](http://heroku.com).
 
 Idea
 -----------------------------

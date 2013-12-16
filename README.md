@@ -13,7 +13,7 @@ I saw [Joshua Beckman's](https://twitter.com/jbckmn) [peronal API](http://http:/
 
 Setup
 -----------------------------
-This runs really nicely on [herou](http://www.heroku.com/), so I suggest running it there. To run anywhere else, just upload index.php and that's it. To setup Heroku, see this list.
+This runs really nicely on [heroku](http://www.heroku.com/), so I suggest running it there. To run anywhere else, just upload index.php and that's it. To setup Heroku, see this list.
 
 1. Fork [tlongren/personal-api](https://toolbelt.heroku.com/) on GitHub and make a local clone.
 2. Install the [Heroku Toolbelt](https://devcenter.heroku.com/articles/git) and login to Heroku with the command ```heroku login```. Enter your username and password to login with the Heroku Toolbelt.

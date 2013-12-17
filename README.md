@@ -8,7 +8,7 @@ Provides a simple JSON API for your personal site. Easily hosted on [Heroku](htt
 
 Idea
 -----------------------------
-I saw [Joshua Beckman's](https://twitter.com/jbckmn) [peronal API](http://http://www.bckmn.com/api) and wanted to provide one that anyone can easily install, ideally somewhere like Heroku.
+I saw [Joshua Beckman's](https://twitter.com/jbckmn) [personal API](http://http://www.bckmn.com/api) and wanted to provide one that anyone can easily install, ideally somewhere like Heroku.
 
 
 Setup

@@ -7,9 +7,9 @@ $json = '{
             "years": 30
         },
         "location": {
-            "latitude": 41.8819,
-            "longitude": -87.6278,
-            "city": "Nevada",
+            "latitude": 41.902445,
+            "longitude": -93.307017,
+            "city": "Collins",
             "state": "IA"
         },
         "languages": {
@@ -18,15 +18,16 @@ $json = '{
             "frameworks": ["WordPress", "Anchor", "LESS", "SASS", "jQuery", "PostgreSQL", "MariaDB", "MySQL"]
         },
         "employer": {
-            "name": "Visionary Services",
+            "name": "Longren.io Development",
             "services": "Web Development and Design",
-            "position": "Software Engineer",
-            "city": "Des Moines",
+            "position": "Owner",
+            "city": "Collins",
             "state": "IA"
         },
         "family": {
             "wife": "Kayla",
-            "daughter": "Sydney"
+            "daughter": "Sydney",
+            "daughter": "Piper"
         }
     },
     "identifiers": {
@@ -48,9 +49,9 @@ $json = '{
     "blog": {
         "rss": "http://www.longren.org/feed/",
         "featured": [{
-            "title": "Infographic: Global Cell Phone Statistics",
-            "url": "http://www.longren.org/infographic-global-cell-phone-statistics/",
-            "date": "2013-12-15T04:15:28.513Z"
+            "title": "New Sublime Text Themes: am​Coder and Minimal Sublime Text",
+            "url": "http://longren.io/new-sublime-text-themes-am%e2%80%8bcoder-and-minimal-sublime-text/",
+            "date": "2014-05-26T04:15:28.513Z"
         }]
     },
     "_links": {

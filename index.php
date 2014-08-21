@@ -4,7 +4,7 @@ header('Content-Type: application/json');
 $json = '{
     "person": {
         "age": {
-            "years": 30
+            "years": 31
         },
         "location": {
             "latitude": 41.902445,
@@ -32,8 +32,8 @@ $json = '{
     },
     "identifiers": {
         "image": "https://lh6.googleusercontent.com/-G_Cw2kSHK2w/UcwDnydyQyI/AAAAAAAAa4A/sQe4_fKbHf8/w320-h240-no/smh.gif",
-        "home_url": "http://www.longren.org",
-        "email": "tlongren@gmail.com",
+        "home_url": "http://longren.io",
+        "email": "tyler@longren.io",
         "first_name": "Tyler",
         "last_name": "Longren",
         "externals": [{
@@ -47,22 +47,29 @@ $json = '{
         }]
     },
     "blog": {
-        "rss": "http://www.longren.org/feed/",
+        "rss": "http://longren.io/feed/",
         "featured": [{
-            "title": "New Sublime Text Themes: am​Coder and Minimal Sublime Text",
-            "url": "http://longren.io/new-sublime-text-themes-am%e2%80%8bcoder-and-minimal-sublime-text/",
-            "date": "2014-05-26T04:15:28.513Z"
+            "title": "Install Tarsnap On a DigitalOcean VPS or Any Ubuntu 14.04 LTS System",
+            "url": "http://longren.io/install-tarsnap-on-digitalocean-or-any-ubuntu-14-04-lts-system/",
+            "date": "2014-08-05T07:54:25+00:00"
         }]
     },
     "_links": {
         "self": {
-            "href": "/"
+            "href": "http://longren.io/"
         },
-        "kegplan": {
+        "Kegplan.io": {
             "href": "http://kegplan.io/"
         },
-        "vpsstat.us": {
-            "href": "https://vpsstat.us/"
+        "Ankenyglassware.com": {
+            "href": "https://ankenyglassware.com/"
+        },
+        "I35Spirits.com": {
+            "href": "http://i35spirits.com/"
+        }
+        ,
+        "Longrendev.io": {
+            "href": "http://longrendev.io/"
         }
     }
 }';

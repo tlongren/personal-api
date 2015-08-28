@@ -1,7 +1,7 @@
 <?php
 // Pull random data from longren.org API
 
-$url = "http://api.longren.org";
+$url = "http://api.longren.io";
 $result = file_get_contents($url);
 $json = json_decode($result);
 

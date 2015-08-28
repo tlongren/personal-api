@@ -4,7 +4,7 @@ header('Content-Type: application/json');
 $json = '{
     "person": {
         "age": {
-            "years": 31
+            "years": 32
         },
         "location": {
             "latitude": 41.902445,
@@ -32,22 +32,22 @@ $json = '{
     },
     "identifiers": {
         "image": "https://lh6.googleusercontent.com/-G_Cw2kSHK2w/UcwDnydyQyI/AAAAAAAAa4A/sQe4_fKbHf8/w320-h240-no/smh.gif",
-        "home_url": "http://longren.io",
+        "home_url": "https://longren.io",
         "email": "tyler@longren.io",
         "first_name": "Tyler",
         "last_name": "Longren",
         "externals": [{
             "name": "Twitter",
             "username": "tlongren",
-            "html_url": "http://twitter.com/tlongren"
+            "html_url": "https://twitter.com/tlongren"
         }, {
             "name": "GitHub",
             "username": "tlongren",
-            "html_url": "http://github.com/tlongren"
+            "html_url": "https://github.com/tlongren"
         }]
     },
     "blog": {
-        "rss": "http://longren.io/feed/",
+        "rss": "https://longren.io/feed/",
         "featured": [{
             "title": "Install Tarsnap On a DigitalOcean VPS or Any Ubuntu 14.04 LTS System",
             "url": "http://longren.io/install-tarsnap-on-digitalocean-or-any-ubuntu-14-04-lts-system/",
@@ -56,7 +56,7 @@ $json = '{
     },
     "_links": {
         "self": {
-            "href": "http://longren.io/"
+            "href": "https://longren.io/"
         },
         "Kegplan.io": {
             "href": "http://kegplan.io/"
@@ -69,7 +69,7 @@ $json = '{
         }
         ,
         "Longrendev.io": {
-            "href": "http://longrendev.io/"
+            "href": "https://longrendev.io/"
         }
     }
 }';

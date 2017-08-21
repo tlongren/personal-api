@@ -4,12 +4,12 @@ header('Content-Type: application/json');
 $json = '{
     "person": {
         "age": {
-            "years": 32
+            "years": 34
         },
         "location": {
             "latitude": 41.902445,
             "longitude": -93.307017,
-            "city": "Collins",
+            "city": "Maxwell",
             "state": "IA"
         },
         "languages": {
@@ -18,14 +18,14 @@ $json = '{
             "frameworks": ["WordPress", "Anchor", "LESS", "SASS", "jQuery", "PostgreSQL", "MariaDB", "MySQL"]
         },
         "employer": {
-            "name": "Longren.io Development",
-            "services": "Web Development and Design",
-            "position": "Owner",
-            "city": "Collins",
+            "name": "Saltech Systems",
+            "services": "Web Development and IT Solutions",
+            "position": "WordPress Developer",
+            "city": "Ames",
             "state": "IA"
         },
         "family": {
-            "wife": "Kayla",
+            "wife": "N/A",
             "daughter": "Sydney",
             "daughter": "Piper"
         }

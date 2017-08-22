@@ -26,8 +26,8 @@ $json = '{
         },
         "family": {
             "wife": "N/A",
-            "daughter": "Sydney",
-            "daughter": "Piper"
+            "daughter0": "Sydney",
+            "daughter1": "Piper"
         }
     },
     "identifiers": {
